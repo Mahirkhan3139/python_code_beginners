@@ -31,3 +31,8 @@ print("{length}".format(length=len(string3)))
 length = len(string4)
 print(f"string4 is {length} characters long!!")
 print(f"string4 is {length:.2f} characters long!!")
+
+a = 10
+b = 50
+ans = b % a
+print(ans)
